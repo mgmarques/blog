@@ -2,7 +2,10 @@
 This blog and user accounts & security was created as a answer of Intro to Backend Udacity course.
 
 ## Access:
-The runnig application could be see at: http://mgm-blog.appspot.com/
+The runnig application could be see at:
+http://mgm-blog.appspot.com/blog for de front page of the blog
+http://mgm-blog.appspot.com/blog/signup for the signup
+mgm-blog.appspot.com/blog/login to login functionality
 
 ## Features
    <li>User registration</li>
